@@ -1,4 +1,4 @@
-# wimview
+# wicview
 Windows Imaging API client - metadata viewer
 
 - An auxiliary tool. Handles images and shows available metadata tree, obtained through the standard system interface - Windows Imaging Component (WIC). 
