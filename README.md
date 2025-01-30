@@ -13,6 +13,6 @@ keywords: jpeg, jpg, jpe, tiff, gif, jfif, gps, ifd, ushort, xmp, app0, app1, ap
 ![a screenshot here][id2]
 ![a screenshot here][id3]
 
-[id]: https://github.com/u07/wimview/blob/test/screenshot.jpg?raw=true  "scr"
-[id2]: https://github.com/u07/wimview/blob/test/1.jpg?raw=true  "scr"
-[id3]: https://github.com/u07/wimview/blob/test/2.jpg?raw=true  "scr"
+[id]: https://github.com/u07/wimview/blob/screenshot.jpg?raw=true  "scr"
+[id2]: https://github.com/u07/wimview/blob/1.jpg?raw=true  "scr"
+[id3]: https://github.com/u07/wimview/blob/2.jpg?raw=true  "scr"
